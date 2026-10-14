@@ -1,0 +1,1 @@
+MmsClean 是一个基于 libxposed API 102 的 ColorOS 信息（短信）净化模块，用于移除输入框上方菜单和消息卡片中的营销按钮
